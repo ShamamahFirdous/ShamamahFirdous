@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShamamahFirdous/ShamamahFirdous/refs/heads/main/banner.png" alt="Shamamah Firdous Banner"/>
+  <img src="https://raw.githubusercontent.com/ShamamahFirdous/ShamamahFirdous/refs/heads/main/banner%201.png" alt="Shamamah Firdous Banner"/>
 </p>
 
 ---
