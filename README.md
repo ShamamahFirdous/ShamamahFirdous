@@ -48,15 +48,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamamahFirdous&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamamahFirdous&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamamahFirdous&show_icons=true&theme=ayu-mirage" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamamahFirdous&theme=ayu-mirage" height="180px"/>
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamamahFirdous&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamamahFirdous&layout=compact&theme=ayu-mirage"/>
 </p>
 
 ---
