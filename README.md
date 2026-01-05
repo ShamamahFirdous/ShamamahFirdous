@@ -49,9 +49,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamamahFirdous&show_icons=true&theme=ayu-mirage" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamamahFirdous&layout=compact&theme=ayu-mirage" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamamahFirdous&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamamahFirdous&layout=compact&theme=ayu-mirage" alt="Top Languages" height="180px"/>
 </p>
+
 
 
 ---
